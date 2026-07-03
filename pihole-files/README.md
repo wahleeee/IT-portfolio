@@ -1,4 +1,4 @@
-# Pi-hole Network DNS Sinkhole — LAB-03
+# Pi-hole Network DNS Sinkhole
 
 **Status:** Complete · **Platform:** Proxmox VE · Pi-hole · Ubuntu 22.04 LXC
 
