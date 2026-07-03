@@ -144,8 +144,6 @@ sudo apt install -y suricata
 suricata -V
 ```
 
-> **No Npcap required.** Linux provides packet capture natively in the kernel (AF_PACKET / NFQUEUE). The Npcap dependency only exists on the Windows port of Suricata.
-
 **Key configuration fixes applied:**
 - The default `suricata.yaml` ships with `interface: eth0`, which does not exist on a Proxmox VM. All references were updated to the real interface:
   ```bash
@@ -201,8 +199,6 @@ A Windows 10 VM on `vmbr2` serves as the protected host and attack target.
 | `100113` | 5 (Notice) | Allowed traffic |
 | `100114` | 7 (Warning) | Blocked traffic |
 | `100115` | 10 (High) | Authentication error |
-
-> Custom rules/decoders go in `/var/ossec/etc/` (survives upgrades), **never** in `/var/ossec/ruleset/` (overwritten on update). Custom rule IDs use the `100000+` range to avoid collisions with built-ins.
 
 ### Suricata → Wazuh (EVE JSON)
 
