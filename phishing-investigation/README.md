@@ -79,8 +79,6 @@ For **password-protected attachments**, detonate inside an **isolated analysis V
 
 *Why:* this is **dynamic analysis** — you confirm malicious behavior by observing detonation (network callbacks, dropped files, persistence) instead of guessing. Letting the sandbox run long enough avoids the "hasty sandbox analysis" trap.
 
-> ⚠️ **Safety rule:** treat every attachment and link as live. Detonation happens only in a sandbox you can throw away.
-
 ### 5. Determine whether the email reached the user
 Return to the **Alert Details** page and find the **Device Action** section — what the security stack (mail gateway / EDR) did with the message. Look for a delivery status such as **Allowed**, **Quarantined**, or **Deleted**, then answer the playbook question:
 - Reached the inbox → **Delivered**
