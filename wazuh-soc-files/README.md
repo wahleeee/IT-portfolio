@@ -1,7 +1,5 @@
 # Wazuh SOC Home Lab — SIEM, IDS/IPS & Firewall on Proxmox
 
-> An end-to-end Security Operations Center (SOC) lab built on **Proxmox VE**, integrating the **Wazuh** SIEM/XDR platform, **Suricata** as an inline IDS/IPS, and a **pfSense** firewall — with full network segmentation, endpoint telemetry, and threat-intelligence enrichment.
-
 ![Platform](https://img.shields.io/badge/Platform-Proxmox%20VE-E57000)
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-005792)
 ![IDS](https://img.shields.io/badge/IDS%2FIPS-Suricata-EE2A24)
