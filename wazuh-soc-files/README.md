@@ -59,8 +59,6 @@ The lab is built on **Proxmox VE** (type-1 hypervisor) and consists of the follo
 | **Attacker** | Used to simulate threats (brute force, recon). | Kali Linux |
 | **VirusTotal** | External threat-intelligence enrichment via API. | Cloud (API) |
 
-> **Note on platform choice:** This lab was built on **Proxmox** (not VMware) using Linux-bridge networking. Suricata runs on a **dedicated Linux VM in inline mode** rather than on Windows with Npcap — the Linux AF_PACKET path is the industry-standard approach for inline IPS and avoids the fragility of the WinDivert/Npcap stack on Windows.
-
 ---
 
 ## Network Design
