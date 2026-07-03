@@ -6,7 +6,7 @@ Each project lives in its own folder with its own documentation. New work is add
 
 ## About
 
-Help Desk Technician II and aspiring SOC analyst, focused on detection engineering, SIEM, network security, and endpoint management.
+IT professional aspiring SOC/cytber analyst, focused on detection engineering, SIEM, network security, and endpoint management.
 
 **Certifications:** B.S. Cybersecurity · Security+ · AZ-104 · AZ-900 · SC-200 (in progress)
 
