@@ -2,13 +2,13 @@
 
 This is where I host my cybersecurity projects - hands-on labs, write-ups, and tools I build as I work toward a SOC/cyber analyst role.
 
-Each project lives in its own folder with its own documentation. New work is added here over time.
+Each project lives in its own folder with its own documentation.
 
 ## About
 
-IT professional aspiring SOC/cyber analyst, focused on detection engineering, SIEM, network security, and endpoint management.
+IT professional - aspiring SOC/cyber analyst
 
-**Certifications:** B.S. Cybersecurity · Security+ · AZ-104 · AZ-900 · SC-200 (in progress)
+**Certifications:** B.S. Cybersecurity · Security+ · AZ-104 · AZ-900 · CySA+ (in progress) 
 
 ## Projects
 
