@@ -1,6 +1,6 @@
 # Cyber Portfolio
 
-This is where I host my cybersecurity projects - hands-on labs, write-ups, and tools I build as I work toward a SOC/cyber analyst role.
+This is where I host my IT/cybersecurity projects - hands-on labs, write-ups, and tools I build as I work toward a SOC/cyber analyst role.
 
 Each project lives in its own folder with its own documentation.
 
