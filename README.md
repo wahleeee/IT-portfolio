@@ -22,3 +22,4 @@ More projects coming soon.
 ## Connect
 
 - GitHub: [@wahleeee](https://github.com/wahleeee)
+- Linkedin: [@mattrcampbell2](https://www.linkedin.com/in/mattrcampbell2/)
