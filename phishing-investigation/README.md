@@ -1,4 +1,4 @@
-# SOC Analyst Training — SIEM Alerts & Phishing Email Investigation
+# SIEM Alerts & Phishing Email Investigation
 
 Blue-team training notes and a reusable **phishing-alert investigation playbook**, distilled from four foundational [LetsDefend](https://app.letsdefend.io/) courses. This repo documents both the **core concepts** behind SOC operations and the **end-to-end workflow** a Tier-1 analyst follows when a phishing alert fires in a SIEM — from taking ownership of the alert, through IOC analysis, to containment and closing the case.
 
