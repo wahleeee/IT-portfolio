@@ -1,4 +1,4 @@
-# Wazuh SOC Home Lab — SIEM, IDS/IPS & Firewall on Proxmox
+# SOC Home Lab - SIEM, IDS/IPS & Firewall on Proxmox
 
 ![Platform](https://img.shields.io/badge/Platform-Proxmox%20VE-E57000)
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-005792)
