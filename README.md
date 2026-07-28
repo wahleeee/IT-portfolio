@@ -1,6 +1,6 @@
 # IT Portfolio
 
-This is where I host my IT/cybersecurity projects - hands-on labs, write-ups, and tools.
+This is where I host my IT/cybersecurity projects - homelabs, writeups, etc.
 
 Each project lives in its own folder with its own documentation.
 
