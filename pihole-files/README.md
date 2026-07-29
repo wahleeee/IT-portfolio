@@ -271,5 +271,3 @@ Because the segmented network from LAB-01 already runs **pfSense as the DHCP ser
 - [StevenBlack/hosts — curated blocklist](https://github.com/StevenBlack/hosts)
 
 ---
-
-*LAB-03 · built & documented by wahle*
