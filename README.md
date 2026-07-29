@@ -17,7 +17,7 @@ IT professional
 |[SOC Home Lab](./wazuh-soc-files/README.md) | End-to-end mini-SOC on Proxmox: Wazuh SIEM, inline Suricata IDS/IPS, pfSense firewall, VirusTotal enrichment, FIM, and Sysmon — detecting an attack from network packet to dashboard alert. | Complete |
 |[Phishing Email Investigation & SIEM](./phishing-investigation/README.md) | SOC analyst playbook for triaging phishing alerts in a SIEM — alert ownership, email header / static / dynamic IOC analysis, blast-radius assessment, mailbox containment, and case documentation. Distilled from four LetsDefend courses, with the core SOC concepts and common analyst mistakes. | Complete |
 |[Network DNS Sinkhole](./pihole-files/README.md) | Network-wide ad, tracker, and malware-domain blocking in an unprivileged LXC container on Proxmox: Pi-hole as the LAN's DNS authority, with a DNSSEC-validated Cloudflare upstream, the Firebog blocklist collection, and DHCP-level rollout. | Complete |
-|[Windows Server](./windows-server/README.md) Completing small windows server labs | In progress |
+|[Windows Server](./windows-server/README.md) | In progress |
 More projects coming soon.
 
 ## Connect
