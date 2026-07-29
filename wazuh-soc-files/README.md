@@ -307,5 +307,3 @@ Multiple agent-startup failures traced back to malformed `ossec.conf` — a dupl
 - Project repository: [github.com/marxgoo/Wazuh-SOC-Lab](https://github.com/marxgoo/Wazuh-SOC-Lab)
 
 ---
-
-*Built as a hands-on portfolio project to develop and demonstrate SOC analyst and endpoint-security skills.*
