@@ -8,7 +8,7 @@ Each project lives in its own folder with its own documentation.
 
 IT professional
 
-**Certifications:** B.S. Cybersecurity · Security+ · AZ-104 · AZ-900 · CySA+ (in progress) 
+**Certifications:** B.S. Cybersecurity · Security+ · AZ-104 · AZ-900 · MD-102 (in progress) 
 
 ## Projects
 
